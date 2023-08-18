@@ -1,12 +1,22 @@
-public class US1 {
-    public static void main(String[] args) {
+import Utlity.BaseDriver;
+import org.junit.Test;
 
 
-        System.out.println("merhaba");
+public class US1 extends BaseDriver {
+    @Test
+    public void Test1(){
+
+        System.out.println("Merhaba");
+
+
+    }
+
+
+
 
 
 
 
 
     }
-}
+
