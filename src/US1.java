@@ -7,6 +7,8 @@ public class US1 extends BaseDriver {
     public void Test1(){
 
         System.out.println("Merhaba");
+        System.out.println( "nasılsınız");
+        System.out.println("javayı seviyoruz");
 
 
     }
